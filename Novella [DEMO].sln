@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Novella [DEMO]", "Novella [DEMO].pyproj", "{07FE7BE8-A43C-4A7E-84E5-5AB52ABE2BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07FE7BE8-A43C-4A7E-84E5-5AB52ABE2BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FE7BE8-A43C-4A7E-84E5-5AB52ABE2BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {415B8329-428D-404E-A636-1024F60EF225}
+	EndGlobalSection
+EndGlobal
